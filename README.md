@@ -1,8 +1,10 @@
 # Snap Finder
 
-**Gold · v1.1.1 · released as-is.** Future features and maintenance are discretionary.
+**Gold · v1.1.1 · released as-is.** Future features and maintenance are optional.
 
-Self-hosted Snapchat discovery directory with verified accounts, categories, moderated listings, reporting, saved profiles, adult-access controls and account export/deletion.
+Snap Finder is a Snapchat discovery directory you can host yourself. It includes email-verified accounts, categories, moderated listings, reporting, saved profiles, adult-access controls, and account export and deletion.
+
+I built Snap Finder as a Forge lab and tried to market it. It wasn't gaining traction. After considering the idea and the market, I didn't feel it justified the time needed to push it further, so I decided to open-source it.
 
 ## Install
 
