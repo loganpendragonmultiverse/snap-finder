@@ -1,6 +1,6 @@
 # Snap Finder
 
-**Gold · v1.1.0 · released as-is.** Future features and maintenance are discretionary.
+**Gold · v1.1.1 · released as-is.** Future features and maintenance are discretionary.
 
 Self-hosted Snapchat discovery directory with verified accounts, categories, moderated listings, reporting, saved profiles, adult-access controls and account export/deletion.
 
