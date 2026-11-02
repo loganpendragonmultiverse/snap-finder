@@ -1,12 +1,14 @@
 # Snap Finder
 
-**Gold · v1.1.0 · released as-is.** Future features and maintenance are discretionary.
+**Gold · v1.1.2 · released as-is.** Future features and maintenance are optional.
 
-Self-hosted Snapchat discovery directory with verified accounts, categories, moderated listings, reporting, saved profiles, adult-access controls and account export/deletion.
+Snap Finder is a Snapchat discovery directory you can host yourself. It includes email-verified accounts, categories, moderated listings, reporting, saved profiles, adult-access controls, and account export and deletion.
+
+I built Snap Finder as a Forge lab and tried to market it. It wasn't gaining traction. After considering the idea and the market, I didn't feel it justified the time needed to push it further, so I decided to open-source it.
 
 ## Install
 
-Requires PHP 8.3+ (PDO SQLite, mbstring, OpenSSL, fileinfo, DOM/XML, curl), Composer 2 and Node.js 22.12+ with npm. Linux, macOS and Windows with those runtimes are supported.
+Requires PHP 8.3+, which matches the locked dependencies and CI-tested runtime. Requires PDO SQLite, mbstring, OpenSSL, fileinfo, DOM/XML, curl, Composer 2 and Node.js 22.12+ with npm. Linux, macOS and Windows with those runtimes are supported.
 
 ```sh
 git clone https://github.com/loganpendragonmultiverse/snap-finder.git
